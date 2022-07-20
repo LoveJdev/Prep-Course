@@ -52,10 +52,10 @@ function divide(x, y) {
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
-  // De lo contrario, devuelve "false"
+  // De lo contrario, devuelve "false"7 jnkmkhhhhhml............................==10                                                                                                                                                      ````````````````````````````````````````
   // Tu código:
-}
-
+]=]
+=*
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
